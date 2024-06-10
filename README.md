@@ -9,7 +9,7 @@ This web application displays lists of board games and their reviews. While anyo
 
 - Java
 - Spring Boot
-- Amazon Web Services(AWS) EC2
+- Ubuntu 22.04 Live-Server
 - Thymeleaf
 - Thymeleaf Fragments
 - HTML5
@@ -34,7 +34,7 @@ This web application displays lists of board games and their reviews. While anyo
   - Non-members only can see the boardgame lists and reviews
   - Users can add board games and write reviews
   - Managers can edit and delete the reviews
-- Deployed the application on AWS EC2
+- Deployed the application on Ubuntu 22.04 Live-Server
 - JUnit test framework for unit testing
 - Spring MVC best practices to segregate views, controllers, and database packages
 - JDBC for database connectivity and interaction
@@ -50,4 +50,3 @@ This web application displays lists of board games and their reviews. While anyo
 4. To use initial user data, use the following credentials.
   - username: bugs    |     password: bunny (user role)
   - username: daffy   |     password: duck  (manager role)
-5. You can also sign-up as a new user and customize your role to play with the application! 😊
